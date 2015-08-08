@@ -1,0 +1,24 @@
+menu: [
+	label: "Packages"
+	submenu: [
+		label: "GMod LuaDev"
+		submenu: [
+			{
+				label: "Serverside"
+				command: "gmod-luadev:sv"
+			}
+			{
+				label: "Shared"
+				command: "gmod-luadev:sh"
+			}
+			{
+				label: "Clients"
+				command: "gmod-luadev:cl"
+			}
+			{
+				label: "Self"
+				command: "gmod-luadev:self"
+			}
+		]
+	]
+]
