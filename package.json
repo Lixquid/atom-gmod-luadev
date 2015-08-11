@@ -1,16 +1,17 @@
 {
   "name": "gmod-luadev",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "LuaDev integration for Atom.",
   "author": "Lixquid",
   "repository": "https://github.com/lixquid/atom-gmod-luadev",
   "license": "GPL-3.0",
-  "keywords": [ "gmod", "lua" ],
-
+  "keywords": [
+    "gmod",
+    "lua"
+  ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-
   "main": "./lib/gmod-luadev",
   "activationCommands": {
     "atom-workspace": [
