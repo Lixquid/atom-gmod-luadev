@@ -1,6 +1,6 @@
 # GMod LuaDev
 
-[Luadev](github.com/noiwex/luadev) integration for Atom.
+[Luadev](https://github.com/noiwex/luadev) integration for Atom.
 
 Send code to LuaDev with simple shotcuts!
 
